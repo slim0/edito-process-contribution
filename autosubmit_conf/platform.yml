@@ -9,6 +9,7 @@ PLATFORMS:
     ADD_PROJECT_TO_HOST: false
     MAX_WALLCLOCK: 48:00
     TEMP_DIR: ''
+
   MARENOSTRUM_ARCHIVE:
     TYPE: ps
     HOST: dt02.bsc.es
