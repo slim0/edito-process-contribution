@@ -9,7 +9,7 @@ pwd
 
 echo
 
-touch /output-data/$AUTOSUBMIT_MY_VARIABLE
+touch /output-data/AUTOSUBMIT_MY_VARIABLE
 
 echo
 echo "end of script"
