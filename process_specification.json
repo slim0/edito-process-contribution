@@ -1,17 +1,14 @@
 {
-    "ProcessId": "test-dummy-experiment",
-    "CustomInput": {
-      "Test": {
-        "MyVariable": {
-          "EnvironmentVariableName": "MY_VARIABLE"
-        }
+  "CustomInput": {
+    "Test": {
+      "MyVariable": {
+        "EnvironmentVariableName": "MY_VARIABLE"
       }
-    },
-    "Contact": "slyobard",
-    "Description": "Dummy autosubmit HPC process",
-    "Icon": "https://www.mercator-ocean.eu/wp-content/uploads/2017/06/favicon-512x512-300x300.png",
-    "Home": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CoralBleaching/coral-bleaching-presentation.md?ref_type=heads",
-    "LearnMoreLink": "https://fr.wikipedia.org/wiki/Teju%C3%A7uoca",
-    "Keywords": ["Test", "WIP"],
-    "AppVersion": "42"
-  }
+    }
+  },
+  "Description": "Dummy autosubmit HPC process",
+  "Icon": "https://www.mercator-ocean.eu/wp-content/uploads/2017/06/favicon-512x512-300x300.png",
+  "Home": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CoralBleaching/coral-bleaching-presentation.md?ref_type=heads",
+  "Keywords": ["Test", "WIP"],
+  "AppVersion": "42"
+}
