@@ -1,0 +1,4 @@
+dependencies:
+  - pip==25.0.1
+  - pip:
+      - xarray==2025.1.2

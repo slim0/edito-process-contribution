@@ -1,6 +1,0 @@
-JOBS:
-  MAIN:
-    FILE: main.sh
-    PLATFORM: LOCAL
-    WALLCLOCK: 00:05
-    RUNNING: member
