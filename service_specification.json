@@ -6,5 +6,5 @@
   "appVersion": "42",
   "copernicusMarineCredentials": true,
   "servicePort": 3001,
-  "customHostname": true,
+  "customHostname": true
 }
