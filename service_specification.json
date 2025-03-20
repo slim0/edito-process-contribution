@@ -5,5 +5,6 @@
   "keywords": ["Test", "dockerfile", "service"],
   "appVersion": "42",
   "copernicusMarineCredentials": true,
-  "servicePort": 3001
+  "servicePort": 3001,
+  "customHostname": true,
 }
