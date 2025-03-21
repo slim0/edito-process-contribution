@@ -1,0 +1,14 @@
+{
+  "customInput": {
+    "Test": {
+      "MyVariable": {
+        "environmentVariableName": "MY_VARIABLE"
+      }
+    }
+  },
+  "description": "Dummy autosubmit HPC process",
+  "icon": "https://www.mercator-ocean.eu/wp-content/uploads/2017/06/favicon-512x512-300x300.png",
+  "home": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CoralBleaching/coral-bleaching-presentation.md?ref_type=heads",
+  "keywords": ["Test", "WIP"],
+  "appVersion": "42"
+}
