@@ -4,7 +4,6 @@
   "home": "https://gitlab.mercator-ocean.fr/pub/edito-infra/edito-tutorials-content/-/blob/master/articles/CoralBleaching/coral-bleaching-presentation.md?ref_type=heads",
   "keywords": ["Test", "dockerfile", "service"],
   "appVersion": "42",
-  "copernicusMarineCredentials": true,
   "servicePort": 3001,
   "customHostname": true
 }
